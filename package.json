@@ -1,0 +1,11 @@
+{
+  "name": "ai-ching-pdf",
+  "version": "0.0.1",
+  "description": "Source documents and scripts for AI Ching PDF creation.",
+  "scripts": {
+    "generate-table": "node generate-table.js"
+  },
+  "dependencies": {
+    "canvas": "^2.10.1"
+  }
+}
